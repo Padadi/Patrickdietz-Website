@@ -21,3 +21,4 @@ Willkommen in meiner Content-Bibliothek.
 # Patrick Dietz
 
 Hier liegen alle Beiträge für mein persönliches LinkedIn-Profil.
+2026-07-10_Container-sind-selten-das-Problem.md
